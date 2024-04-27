@@ -1,0 +1,573 @@
+body{
+    background-color: black;
+}
+.spot1{
+    color: white;
+    background-color: rgb(41, 39, 39);
+    height: 122px;
+    width: 21%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    
+}
+.spotify{
+    padding-top: 10px;
+}
+svg path{
+    fill: white;
+    
+}
+.home{
+    height: 21px;
+    display: inline-block;
+}
+.home1{
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.search{
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+}
+.search1{
+    display: inline-block;
+    margin: 0;
+}
+.spot2{
+    background-color:  rgb(41, 39, 39);
+    height: 789px;
+    width: 22%;
+    color: white;
+    border-radius:10px;
+}
+.liberary{
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    
+    
+}
+.liberary1{
+    display: inline-block;
+    margin: 0;
+    margin-top: 10px;
+}
+.lib{
+    height: 20px;
+    width: 20px;
+    margin-left: 200px;
+}
+.playlist{
+    background-color: rgb(94, 90, 90);
+    height: 120px;
+    width: 380px;
+    color: white;
+    border-radius: 10px
+}
+.playlist1{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.playlist2{
+    padding-left: 10px;
+}
+.CreatePlayList{
+    border-radius: 50px;
+    padding: 10px;
+    border: none;
+    margin-left: 10px;
+}
+.CreatePlayList:hover{
+    color:none;
+    transform: scale(1.1);
+}
+.podcast{
+    background-color: rgb(94, 90, 90);
+    height: 120px;
+    width:374px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom:10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    
+}
+.podcast2{
+    padding-top: 10px;
+}
+.browse{
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+}
+
+.legal{
+    font-size: small; 
+    padding-left: 10px;
+
+}
+.about{
+    font-size: small;
+    padding-left: 10px;
+}
+.browse:hover{
+    color:none;
+    transform: scale(1.1);
+}
+.margin{
+    margin-top: 260px;
+}
+.cookies{
+    font-size: small;
+    padding-left: 10px;
+}
+.English{
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+    background-color: rgb(19, 18, 18);
+    color: white;
+    padding-left: 10px;
+    margin-left: 10px;
+
+}
+.English:hover{
+    color: rgb(55, 53, 53);
+   
+}
+.icon{
+    height: 20px;
+    width: 20px;
+    padding-right: 10px;
+    position: relative;
+    top: 4px;
+}
+.spot3{
+    position: absolute;
+    top: 12px;
+    left: 421px;
+    background-color:#9f3e48;
+    height: 50%;
+    width: 77%;
+    border-radius: 5px 5px 0px 0px;
+}
+.lt{
+    background-color: rgb(17, 17, 17);
+    color:beige;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 50px;
+    padding: 10px;
+    border: none;
+}
+.gt{
+    background-color: rgb(71, 69, 69);
+    color:beige;
+    margin-top: 20px;
+   
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+}
+.up{
+    background-color: #bc6c7300;
+    color:beige;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+    position: absolute;
+    right: 158px;
+}
+.in{
+   
+    margin-top: 20px;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 20px;
+    position: absolute;
+    right:80px;
+}
+.up:hover{
+    color: #c77981;
+}
+.in:hover{
+    color: rgb(228, 221, 221);
+}
+.arijit{
+    position: absolute;
+    bottom:152px;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.name{
+    color: white;
+    position:absolute;
+    bottom: 161px;
+    right: 50%;
+    font-size: 75px;
+}
+.list{
+    color: white;
+    position: absolute;
+    bottom: 174px;
+    right: 62%;
+}
+.art{
+    color: white;
+    position: absolute;
+    bottom: 309px;
+    right: 63%;
+}
+.img1{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    bottom: 323px;
+    right: 70%;
+}
+.spot4{
+    position: absolute;
+    top: 348px;
+    left: 0px;
+    background-image:linear-gradient(#7d353c,black);
+    height: 50%;
+    width: 100%;
+    border-radius: 0px 0px 5px 5px;
+}
+.button{
+    border-radius: 50%;
+    background-color: rgb(31, 222, 31);
+    height: 60px;
+    width: 60px;
+    border: none;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.icon2{
+    height: 30px;
+    width: 30px;
+    color:black;
+    position: absolute; 
+    top: 35px;
+    left: 37px;
+}
+.icon2:hover{
+    color: none;
+    transform: scale(1.1);
+
+}
+.f1{
+    border-radius: 50px;
+    background-color:#512226; ;
+    color: white;
+    position: absolute;
+    top:32px ;
+    left: 120px;
+    padding: 9px 30px;
+    border: solid 1px white;
+}
+.f1:hover{
+    color: none;
+    transform: scale(1.1);
+}
+.dot{
+    
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left:247px;
+    top:27px;   
+}
+.dot path{
+    fill: gray;
+}
+.dot path:hover{
+    fill: rgb(255, 255, 255);
+    transform: scale(1.1);
+}
+.pop{
+    color: white;
+    position: absolute;
+    left:36px;
+    top:82px ;
+}
+.no1{
+    color: gray;
+    position:absolute;
+    top:152px ;
+    left: 36px;
+    font-size: 20px;
+}
+.no1:hover{
+    color: white;
+}
+.image2{
+    height: 50px;
+    width:50px;
+    position:relative;
+    top:156px ;
+    left: 61px;
+    object-fit: cover;
+}
+.song1{
+    color: rgb(199, 195, 195);
+    position: absolute;
+    top:150px ;
+    left:139px ;
+    font-size: larger;
+}
+.song1:hover{
+    color: white;
+}
+.n1{
+    color: rgb(162, 159, 159);
+    position: absolute;
+    top: 156px;
+    left:465px ;
+}
+.n1:hover{
+    color: white;
+}
+.t1{
+    color: rgba(172, 170, 170, 0.739);
+    position: absolute;
+    top:156px ;
+    left:651px;
+}
+.t1:hover{
+    color: white;
+}
+.no2{
+    color: grey;
+    position: absolute;
+    top: 223px;
+    left:36px;
+    font-size: 20px;
+}
+.no2:hover{
+    color: white;
+}
+.image3{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top:223px;
+    left:62px ;
+}
+.song2{
+     color: rgb(165, 163, 163);
+     position: absolute;
+     top: 223px;
+     left:142px;
+     font-size: larger;
+}
+.song2:hover{
+    color: white;
+}
+.n2{
+    color: rgb(163, 163, 163);
+    position: relative;
+    top: 176px;
+    left: 466px;
+}
+.n2:hover{
+    color: white;
+}
+.t2{
+    color: rgb(157, 154, 154);
+    position: absolute;
+    top: 230px;
+    left:651px;
+}
+.t2:hover{
+    color: white;
+}
+.no3{
+    color: grey;
+    position: relative;
+    top: 216px;
+    left:36px;
+    font-size: 20px;
+}
+.no3:hover{
+    color: white;
+}
+.image4{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 311px;
+    left: 60px;
+}
+.song3{
+    color: rgb(192, 191, 191);
+    position: absolute;
+    top:307px;
+    left: 142px;
+    font-size:larger ;
+}
+.song3:hover{
+    color: white;
+}
+.n3{
+    color: rgb(180, 177, 177);
+    position: absolute;
+    top: 310px;
+    left: 465px;
+}
+.n3:hover{
+    color: white;
+}
+.t3{
+    color: rgb(185, 181, 181);
+    position: absolute;
+    top:310px;
+    left:651px;
+}
+.t3:hover{
+    color: white;
+}
+.no4{
+    color: gray;
+    position: absolute;
+    top:394px;
+    left: 36px;
+}
+.no4:hover{
+    color: white;
+}
+.image5{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 394px;
+    left: 61px;
+}
+.song4{
+    color: rgb(193, 192, 192);
+    position: absolute;
+    top: 394px;
+    left: 144px;
+}
+.song4:hover{
+    color: white;
+}
+.n4{
+    color: gray;
+    position: absolute;
+    top: 394px;
+    left:466px;
+}
+.n4:hover{
+    color: white;
+}
+.t4{
+    color: gray;
+    position: absolute;
+    top: 394px;
+    left: 651px;
+}
+.t4:hover{
+    color: white;
+}
+.no5{
+    color: grey;
+    position: absolute;
+    top: 471px;
+    left: 36px;
+}
+.no5:hover{
+    color: white;
+}
+.image6{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top:477px ;
+    left:61px;
+}
+.song5{
+    color: rgb(208, 208, 208);
+    position: absolute;
+    top: 477px;
+    left: 144px;
+}
+.song5:hover{
+    color: white;
+}
+.n5{
+    color: grey;
+    position: absolute;
+    top: 475px;
+    left: 466px;
+}
+.n5:hover{
+    color: white;
+}
+.t5{
+    color:grey;
+    position: absolute;
+    top: 475px;
+    left: 651px;
+}
+.t5:hover{
+    color: white;
+}
+.pack{
+    color: white;
+    position: absolute;
+    top: 82px;
+    left:747px
+}
+.icon3{
+    position: absolute;
+    top: 167px;
+    left: 777px;
+    height: 100px;
+    width: 100px;
+}
+.icon4{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top:174px;
+    left: 897px;
+    border-radius: 50px;
+}
+.posted{
+    color: grey;
+    position: absolute;
+    top: 168px;
+    left:938px ;
+}
+.soul{
+    color: white;
+    position: relative;
+    top: 63px;
+    left: 897px;
+}
+.song{
+    color: grey;
+    position: relative;
+    top:46px;
+    left: 897px;
+    font-size: 20px;
+}
+.see{
+    color: grey;
+    position: absolute;
+    top: 525px;
+    left: 41px;
+}
+.see:hover{
+    color: white;
+}
+
+
+    
